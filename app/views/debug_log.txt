@@ -1,0 +1,869 @@
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [title] => Dexter
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Barbie
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => True Grit
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => True Grit
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Barbie
+)
+ | Array
+(
+    [movie_id] => 5
+)
+
+Received: Array
+(
+    [title] => Barbie
+)
+ | Array
+(
+    [movie_id] => 5
+)
+
+Received: Array
+(
+    [title] => Barbie
+)
+ | Array
+(
+    [movie_id] => 5
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Paddington
+)
+ | Array
+(
+    [movie_id] => 2
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Test
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received: Array
+(
+    [title] => Test
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received: Array
+(
+    [title] => Test
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+    [title] => Tenet
+)
+ | Array
+(
+    [movie_id] => 6
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [title] => Oppenheimer
+)
+
+Received: Array
+(
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [title] => Oppenheimer
+)
+ | Array
+(
+    [movie_id] => 9
+)
+
+Received: Array
+(
+    [title] => Oppenheimer
+)
+ | Array
+(
+    [movie_id] => 9
+)
+
+Received: Array
+(
+    [title] => Oppenheimer
+)
+ | Array
+(
+    [movie_id] => 9
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [title] => Trolls
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [title] => Trolls
+)
+

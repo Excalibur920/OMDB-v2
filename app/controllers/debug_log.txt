@@ -1,0 +1,260 @@
+Received movie_id: 
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+    [action] => Delete
+    [Movie] => 7
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+    [action] => Delete
+    [Movie] => 7
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+    [movie_id] => 7
+)
+ | Array
+(
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 67
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 66
+)
+
+Received movie_id: Array
+(
+)
+ | Array
+(
+    [movie_id] => 67
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+
+Received: Array
+(
+)
+ | Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+
+Received: Array
+(
+    [movie_id] => 7
+    [test_id] => test
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [movie_id] => 8
+    [test_id] => test
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [movie_id] => 8
+    [test_id] => test
+)
+ | Array
+(
+)
+
+Received: Array
+(
+    [movie_id] => 8
+    [test_id] => test
+)
+ | Array
+(
+)
+
